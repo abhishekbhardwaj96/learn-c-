@@ -20,7 +20,7 @@ int main(){
 	long double float3;
 	
 	
-	cout << "size of int" << sizeof(ineger1) ;
+	cout << "size of int" << sizeof(int) ;
 	cout << "\n size of signed int" << sizeof(signed int);
 	cout << "\n size of unsigned int" << sizeof(unsigned int);
 	cout << "\n size of short int" << sizeof(short int);
