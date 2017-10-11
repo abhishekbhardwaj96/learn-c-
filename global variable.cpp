@@ -14,3 +14,5 @@ int main(){
 	g=20;
 	cout << g;
 }
+
+
